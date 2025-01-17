@@ -41,10 +41,3 @@ LeonardoAI：
 
 - Imagem utilizadas em `assets`
 - ebook gerado em `output`
-
-## 🛠️ Execução
-
-Utilizei os prompts acima nas ferramentas sugeridas para gerar o material base e utilizei como ferramenta de edição de documentos o power point para diagramação.
----
-
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
